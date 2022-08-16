@@ -13,7 +13,8 @@ import (
 	"strconv"
 	"sync"
 	"time"
-	"tinypng/cPrint"
+
+	"github.com/nlbydcg/gotinypng/cPrint"
 )
 
 type FileOptions struct {

@@ -6,8 +6,9 @@ import (
 	"os"
 	"path"
 	"strings"
-	"tinypng/cPrint"
-	"tinypng/request"
+
+	"github.com/nlbydcg/gotinypng/cPrint"
+	"github.com/nlbydcg/gotinypng/request"
 )
 
 // 可以转换的图片格式
